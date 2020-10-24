@@ -1,1 +1,1 @@
-# NPM pAckage boilerplate including Typescript and Jest 
+# NPM Package Boilerplate including Typescript and Jest 
